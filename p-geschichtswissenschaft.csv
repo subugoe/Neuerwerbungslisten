@@ -19,7 +19,7 @@
 "NEP001170";"NEP001000";"Geschichte Italiens";"bkl=15.67";;"page=502"
 "NEP001180";"NEP001000";"Geschichte der Balkanstaaten und Griechenlands";"bkl=15.70 or bkl=15.69";;"page=502"
 "NEP001190";"NEP001000";"Geschichte der Türkei";"bkl=15.68";;"page=502"
-"NEP001200";"NEP001000";"Geschichte Osteuropas";"bkl=15.71 or bkl=15.72 or bkl=15.73 or bkl=15.74";;"page=502"
+"NEP001200";"NEP001000";"Geschichte Osteuropas";"bkl=15.71 or bkl=15.72 or bkl=15.73 or bkl=15.74 or abr=oe?";;"page=502"
 "NEP001210";"NEP001000";"Geschichte Asiens";"bkl=15.75 or bkl=15.76 or bkl=15.77 or bkl=15.78 or bkl=15.79 or bkl=15.80 or bkl=15.81";;"page=502"
 "NEP001220";"NEP001000";"Geschichte Amerikas";"bkl=15.85 or bkl=15.86 or bkl=15.87 or bkl=15.88";;"page=502"
 "NEP001230";"NEP001000";"Geschichte Afrikas";"bkl=15.90 or bkl=15.91 or bkl=15.92";;"page=502"

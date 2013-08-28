@@ -1,0 +1,11 @@
+"NEUR";0;"NEUR";"NE";"Karten und Atlanten";;;
+"NEUR01000";1;"NEUR01000";"NEUR";"Karten nach Themen";;;"Page=803"
+"NEUR01010";2;"NEUR01010";"NEUR01000";"Karten nach Themen";"lkl=uq?";;"page=803"
+;;;;;;;
+"NEUR02000";1;"NEUR02000";"NEUR";"Karten nach Regionen: Großgebiete";"lkl=ur?";;"Page=803"
+"NEUR02020";2;"NEUR02020";"NEUR02000";"Karten: Europa";"lkl=ura?";;"page=803"
+"NEUR02030";2;"NEUR02030";"NEUR02000";"Karten: Asien";"lkl=urh?";;"page=803"
+"NEUR02040";2;"NEUR02040";"NEUR02000";"Karten: Afrika";"lkl=urn?";;"page=803"
+"NEUR02050";2;"NEUR02050";"NEUR02000";"Karten: Amerika";"lkl=urv?";;"page=803"
+"NEUR02060";2;"NEUR02060";"NEUR02000";"Karten: Australien und Ozeanien";"lkl=ury?";;"page=803"
+"NEUR02070";2;"NEUR02070";"NEUR02000";"Polargebiete, Meeresräume, Weltall";"lkl=urz?";;"page=803"

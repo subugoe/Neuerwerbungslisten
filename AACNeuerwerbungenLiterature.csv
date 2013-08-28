@@ -1,0 +1,24 @@
+"NEAAC2000";"NEAAC";"Englische Philologie";"lkl=ia?";"British language and literature";"groupstart"
+"NEAAC2010";"NEAAC2000";"Allgemeines und Sprachwissenschaft";"lkl=ia 2? or lkl=ia 3?";"General works and linguistics";
+"NEAAC2030";"NEAAC2000";"Textsammlungen";"lkl=ia 4?";"Collections of literary texts";
+"NEAAC2040";"NEAAC2000";"Literaturwissenschaft";"lkl=ia 5?";"Literary criticism";
+"NEAAC2050";"NEAAC2000";"Sekundärliteratur zu einzelnen Autoren";"lkl=ia 6? not lkl=ia 610";"Criticism of individual authors";
+"NEAAC2060";"NEAAC2000";"Texte einzelner Autoren";"lkl=ia 610?";"Texts by individual authors";
+"NEAAC2070";"NEAAC2000";"Altenglisch";"lkl=iab?";"Old English";"inline"
+"NEAAC2080";"NEAAC2000";"Mittelenglisch";"lkl=iad?";"Middle English";"inline"
+"NEAAC2090";"NEAAC2000";"Schottland";"lkl=iah?";"Scotland";"inline,break"
+"NEAAC2100";"NEAAC2000";"Wales";"lkl=iaj?";"Wales";"inline"
+"NEAAC2110";"NEAAC2000";"Irland";"lkl=iaf?";"Ireland";"inline"
+;;;;;
+"NEAAC3000";"NEAAC";"Commonwealth";"lkl=ib?";"New literatures in English";
+"NEAAC3010";"NEAAC3000";"Kanada";"lkl=ibj?";"Canada";
+"NEAAC3020";"NEAAC3000";"Australien und Neuseeland";"lkl=ibb? or lkl=ibg?";"Australia and New Zealand";
+"NEAAC3030";"NEAAC3000";"Afrika, Asien, Karibik";"lkl=ibm? or lkl=ibr? or lkl=ibo?";"Africa, Asia, Caribbean";
+"NEAAC3040";"NEAAC3000";"Indien";"lkl=ibw?";"India";
+;;;;;
+"NEAAC4000";"NEAAC";"Amerikanische Philologie";"lkl=ic?";"American language and literature";"groupend"
+"NEAAC4010";"NEAAC4000";"Allgemeines und Sprachwissenschaft";"lkl=ic 2? or lkl=ic 3?";"General works and linguistics";
+"NEAAC4030";"NEAAC4000";"Textsammlungen";"lkl=ic 4?";"Collections of literary texts";
+"NEAAC4040";"NEAAC4000";"Literaturwissenschaft";"lkl=ic 5?";"Literary criticism";
+"NEAAC4050";"NEAAC4000";"Sekundärliteratur zu einzelnen Autoren";"lkl=ic 6? not lkl=ic 610";"Criticism of individual authors";
+"NEAAC4060";"NEAAC4000";"Texte einzelner Autoren";"lkl=ic 610";"Texts by individual authors";
